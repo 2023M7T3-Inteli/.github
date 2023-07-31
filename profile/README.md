@@ -1,7 +1,7 @@
 # 🙋‍ 2023.2A - Módulo VOZ - IBM
 
 ## 🔍 Projeto
-Automação com reconhecimento por voz
+Automação com reconhecimento por voz.
 
 ## 🎯 Escopo Macro
 Solução que busca, através de interação de voz e texto, fazer buscas sobre o que empresas estão falando sobre um tema específico. Exemplo: O que as empresas do ramo financeiro estão falando sobre otimização e planejamento financeiro? 
