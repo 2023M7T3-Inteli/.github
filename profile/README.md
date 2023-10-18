@@ -1,37 +1,29 @@
-# 🙋‍ 2023.2A - Módulo VOZ - IBM
+# 🙋‍2023.2 - Implantação de automação com reconhecimento de voz - Turma 3 - IBM
 
-## 🔍 Projeto
-Automação com reconhecimento por voz.
+## 🔍 O problema:
 
-## 🎯 Escopo Macro
-Solução que busca, através de interação de voz e texto, fazer buscas sobre o que empresas estão falando sobre um tema específico. Exemplo: O que as empresas do ramo financeiro estão falando sobre otimização e planejamento financeiro? 
-Baseado nessa busca, o motor de IA também entenderá o que a IBM e outras empresas de tecnologia falam sobre o tema, que tecnologias da IBM estão por trás desse tema.
+Apoiar a instituição com a o uso da tecnologia de reconhecimento de voz, desenvolvendo os alunos na implementação de uma aplicação real.
 
-## 🧩 Restrições
+## 🎯 O objetivo:
 
-- A solução deve usar NLP e IA;
-  
-- As tecnologias utilizadas para desenvolvimento devem ser obrigatoriamente da IBM, além das tecnologias de integração em tempo real planejadas no plano pedagógico, não disponibilizadas pela IBM;.
+Construção de uma aplicação para tratar comandos de voz utilizando tecnologias IBM Watson.
 
-- Ao final do projeto será entregue um protótipo, que não é um produto pronto para ser comercializado.
+## 💻  Implantação de automação com reconhecimento de voz:
 
-## 💻 Soluções
+- Grupo 1 - Holmes
+  - Link do repositório: https://github.com/2023M7T3-Inteli/projeto1
 
-- Grupo 1
-  - Link do repositório: https://github.com/2023M7T3-Inteli/Projeto1
-  
-- Grupo 2
-  - Link do repositório: https://github.com/2023M7T3-Inteli/Projeto2
-  
+- Grupo 2 - CogniVoice
+  - Link do repositório: https://github.com/2023M7T3-Inteli/projeto2
+
 - Grupo 3
-  - Link do repositório: https://github.com/2023M7T3-Inteli/Projeto3
-  
-- Grupo 4
-  - Link do repositório: https://github.com/2023M7T3-Inteli/Projeto4
-  
-- Grupo 5
-  - Link do repositório: https://github.com/2023M7T3-Inteli/Projeto5
-  
-## Imagem no Perfil
-  
-Imagem de <a href="https://br.freepik.com/vetores-gratis/aplicativo-clubhouse-para-aplicacao-de-bate-papo-com-audio-no-smartphone_12862762.htm#query=voz&position=0&from_view=search&track=sph">Freepik</a>
+  - Link do repositório: https://github.com/2023M7T3-Inteli/projeto3
+
+- Grupo 4 - Minsky
+  - Link do repositório: https://github.com/2023M7T3-Inteli/projeto4
+
+- Grupo 5 - Kleper
+  - Link do repositório: https://github.com/2023M7T3-Inteli/projeto5
+
+- Grupo 6 - Talk to Watson
+  - Link do repositório: https://github.com/2023M7T3-Inteli/projeto6
